@@ -1,0 +1,14 @@
+div.movie {
+  background-color: #ebebeb;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  margin: 20px;
+  width: 400px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+img {
+  margin-top: 20px;
+  width: 300px;
+}
